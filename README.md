@@ -1,7 +1,7 @@
 ### Hi There! 👋
 
 - 🔭 I’m currently working on lots of things!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently improving Python and learning UiPath
 - 👯 I’m looking to collaborate on any C# or Python programs
 - 🤔 I’m looking for help with ideas for challenging programs
 - 💬 Ask me about absolutely anything
