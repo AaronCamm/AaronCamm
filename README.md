@@ -1,8 +1,8 @@
 ### Hi There! 👋
 
 - 🔭 I’m currently working on lots of things!
-- 🌱 I’m currently improving Python and learning UiPath
-- 👯 I’m looking to collaborate on any C# or Python programs as well as any UiPath templates
+- 🌱 I’m currently improving my web-development
+- 👯 I’m looking to collaborate on any projects
 - 🤔 I’m looking for help with ideas for challenging programs
 - 💬 Ask me about absolutely anything
 - 📫 How to reach me: aaroncamm96@gmail.com
